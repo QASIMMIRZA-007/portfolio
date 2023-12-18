@@ -9,8 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.2",
+    "emailjs-com": "^3.2.0",
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-icons": "^4.11.0",
+    "swiper": "^10.3.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
   }
 }

@@ -1,0 +1,33 @@
+nav{
+    background-color: rgba(0,0,0,0.4);
+    width:14rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.7rem;
+    padding: .5rem .9rem;
+
+    border-radius: 1rem;
+    position: fixed;
+    bottom: 0.4em;
+    left: 42%;
+    transform: translateX(-50deg);
+    font-size: 20px;
+    scroll-behavior: smooth;
+
+
+
+}
+
+
+.active{
+    /* background-color: rgba(0,0,0,0.4); */
+    color: var(--color-white);
+}
+/* ======  MEDIA QUERIES FOR SMALL DEVICES  */
+@media screen and (max-width:500px) {
+    nav{
+        left: 20%;
+        bottom: 60px;
+    }
+}
