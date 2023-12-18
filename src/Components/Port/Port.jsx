@@ -1,5 +1,5 @@
 import React from 'react'
-import './port.css'
+import './Port.css'
 const Porfolio = () => {
   const data = [
     {

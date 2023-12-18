@@ -1,6 +1,6 @@
 import React from 'react'
 import {BsFillPatchCheckFill } from 'react-icons/bs'
-import './Experience.css'
+import './experience.css'
 const Experience = () => {
   return (
     <section id='experience'>

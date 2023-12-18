@@ -1,5 +1,5 @@
 import React from 'react'
-import './about.css'
+import './About.css'
 import {BsAward } from 'react-icons/bs'
 import {AiOutlineUsergroupAdd} from 'react-icons/ai'
 import {VscFolder} from 'react-icons/vsc'
