@@ -11,10 +11,10 @@ import Footer from '@/Components/Footer/Footer'
 const page = () => {
   return (
     <>
-{/* <Header/>
+<Header/>
 <Nav/>
 <About/>
-<Experience/> */}
+<Experience/>
 <Port/>
 <Testimonial/>
 <Contact/>
